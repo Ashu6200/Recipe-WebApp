@@ -1,6 +1,7 @@
 # Task
 
 ## Architecture App are:
+
 - App title + Favicon
 - Styled Components
 - Router (navigation)
@@ -16,6 +17,16 @@ This will create a react js web app in a directory called “myapp” and run th
 
 # Section-2 FOLDER STRUCTURE
 ![folder](https://user-images.githubusercontent.com/109691178/217612995-543b9276-e00e-4046-85be-e9cd62697c73.PNG)
+
+First, we’ll restructure the application code to make it more robust and scalable. This will make it easy to on-boarding new resources by defining a common approach for the development process.
+
+/src/index.js :
+- It is the default entry point of every react application. There are no changes in this file except cleanup.
+- remove the app.css import & delete that file. I prefer to use only one global CSS file i.e. index.css for our project.
+- delete everything from “/src/App.css” and update it with global styles.
+- 
+/assets :
+As the name suggests, all the static assets should reside here.
 
 
 
