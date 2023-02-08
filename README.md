@@ -53,3 +53,7 @@ CI pipeline can be a bonus (Info on GitLab CI implementation in this story)
 ![Profile width recipe](https://user-images.githubusercontent.com/109691178/217557503-6d68b81b-a1d8-4602-9f28-3da7fe4a2e19.PNG)
 ![Profile with recipe](https://user-images.githubusercontent.com/109691178/217557512-5fe1cf3c-96a4-44da-bbb8-7e84845c7e65.PNG)
 
+
+
+https://user-images.githubusercontent.com/109691178/217616775-6f3c0dad-468b-477f-b24d-fa34185558ac.mp4
+
